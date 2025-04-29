@@ -13,34 +13,34 @@ Aaron Cresswell              0.0
   Armando Broja              0.0
 --------------------------------------------------
 
-Statistic: Total Cmp
-====================
+Statistic: Standard G/Sh
+========================
 Top 3 players:
-         Player  Total Cmp
-Virgil van Dijk       2371
- William Saliba       2273
- Joško Gvardiol       2240
+            Player  Standard G/Sh
+       John Stones            1.0
+Myles Lewis-Skelly            0.5
+      Jan Bednarek            0.4
 
 Bottom 3 players:
-         Player  Total Cmp
-  William Osula         11
-Albert Grønbaek         13
-Odsonne Édouard         17
+         Player  Standard G/Sh
+ Woyo Coulibaly            0.0
+Aaron Cresswell            0.0
+ Wilson Odobert            0.0
 --------------------------------------------------
 
-Statistic: Touches
-==================
+Statistic: Standard Dist
+========================
 Top 3 players:
-         Player  Touches
-Virgil van Dijk     2915
- Joško Gvardiol     2808
-   Levi Colwill     2669
+          Player  Standard Dist
+ Ibrahim Sangaré           32.0
+Emmanuel Agbadou           31.8
+     Ryan Fraser           31.6
 
 Bottom 3 players:
-         Player  Touches
-Albert Grønbaek       38
-  William Osula       41
-Odsonne Édouard       45
+        Player  Standard Dist
+Kieran Tierney            2.6
+  Harry Clarke            4.5
+   John Stones            5.1
 --------------------------------------------------
 
 Statistic: Tackles Tkl
@@ -73,18 +73,18 @@ Bottom 3 players:
  Bart Verbruggen             0
 --------------------------------------------------
 
-Statistic: Performance Recov
-============================
+Statistic: Blocks
+=================
 Top 3 players:
-         Player  Performance Recov
- Moisés Caicedo                197
-Bruno Fernandes                187
-  Ryan Christie                182
+         Player  Blocks
+ Nathan Collins      68
+        Murillo      66
+Tyrick Mitchell      62
 
 Bottom 3 players:
-                 Player  Performance Recov
-         Fraser Forster                  1
-             Danny Ward                  1
-Hákon Rafn Valdimarsson                  1
+        Player  Blocks
+Aaron Ramsdale       0
+Arijanet Muric       0
+Tyrique George       0
 --------------------------------------------------
 
