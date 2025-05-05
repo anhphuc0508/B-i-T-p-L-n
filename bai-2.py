@@ -12,8 +12,8 @@ ENCODING = 'utf-8-sig'
 CSV_FILE = 'results.csv'
 
 # Chọn 3 chỉ số tấn công và 3 chỉ số phòng ngự
-attacking_cols = ['Standard SoT/90', 'Total Cmp', 'Touches']
-defensive_cols = ['Tackles Tkl', 'Tackles TklW', 'Performance Recov']
+attacking_cols = ['Standard SoT/90', 'Standard G/Sh', 'Standard Dist']
+defensive_cols = ['Tackles Tkl', 'Tackles TklW', 'Blocks']
 
 # Đọc dữ liệu
 try:
